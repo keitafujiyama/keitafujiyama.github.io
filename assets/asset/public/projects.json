@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "name": "connect",
+            "description": "",
+            "slogan": "Anonymous Chat",
+            "type": "other",
+            "url": "https://keitafujiyama.github.io/VPSC70H3-assignment-2/"
+        },
+        {
+            "name": "live",
+            "description": "",
+            "slogan": "Just Simple",
+            "type": "essential",
+            "url": "https://keitafujiyama.github.io/VPSC70H3-assignment-1/"
+        },
+        {
+            "name": "uoftjn.com",
+            "description": "",
+            "slogan": "For UTJN",
+            "type": "other",
+            "url": "https://uoftjn.com/"
+        },
+        {
+            "name": "zzz...",
+            "description": "",
+            "slogan": "Sleep Well",
+            "type": "essential",
+            "url": "https://keitafujiyama.github.io/VPSC70H3-assignment-3/"
+        }
+    ]
+}
